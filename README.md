@@ -4,11 +4,10 @@ Measuring the gains/losses of investments in my stock portfolio
 
 Results
 
-2017
-![2017](Resources/VBA_Challenge_2017.png)
+| 2017      | 2018 |
+| ----------- | ----------- |
+| ![2017](Resources/VBA_Challenge_2017.png)      | ![2018](Resources/VBA_Challenge_2018.png)       |
 
-2018
-![2018](Resources/VBA_Challenge_2018.png)
 
 In 2017 we had significantly more gains that losses than in 2018.  In 2018 nearly the entire stock portfolio displayed signficant loss.
 
